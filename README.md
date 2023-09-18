@@ -1,13 +1,17 @@
 # movies-explorer-frontend
 ## Макет: dark-5
-Дипломная работа frontend часть
+### Дипломная работа frontend часть
 Репозиторий для приложения дипломного проекта `movies-explorer`, включающий фронтенд часть приложения:
 1) верстка jsx компонентов
 2) настройка роутов
 
-Адрес репозитория: [https://github.com/Eka123Eka/movies-explorer-frontend.git](https://github.com/Eka123Eka/movies-explorer-frontend.git)
+### Адрес репозитория
+[https://github.com/Eka123Eka/movies-explorer-frontend.git](https://github.com/Eka123Eka/movies-explorer-frontend.git)
 
-## Ссылки на проект
+### Ссылка на макет
+https://www.figma.com/file/6FMWkB94wE7KTkcCgUXtnC
+
+### Ссылки на проект
 
 IP 62.84.113.141
 
